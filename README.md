@@ -10,7 +10,7 @@ For this task, I was assigned to wire two motors controlled by a dip switch. I u
 
 <br>
 
-![Hardware And Wiring!](Images/Arduino.jpeg)
+![Hardware And Wiring!](Images/Arduino.jpg)
 
 <br>
 <br>
